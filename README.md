@@ -2,7 +2,8 @@
 - 👀 I’m interested in english learning and programing.
 - 🌱 I’m currently learning computer engineering.
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 email: mahsabahri79@gmail.com
+- linkdin : https://www.linkedin.com/in/mahsa-bahri-9347a5196/
 
 <!---
 mahsa-bahri/mahsa-bahri is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
